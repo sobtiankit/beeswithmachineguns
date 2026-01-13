@@ -1,0 +1,22 @@
+{
+  "workspace": {
+    "id": "0dd65c58-eaf1-4d12-9f9f-99119ee484db"
+  },
+  "entities": {
+    "collections": [
+      "../postman/collections/billing-api.json"
+    ],
+    "environments": [
+      "../environments/billing-api---development.json",
+      "../environments/billing-api---staging.json",
+      "../environments/billing-api---production.json"
+    ],
+    "specs": [
+      "../postman/specs/billing-api.yaml"
+    ],
+    "flows": [],
+    "globals": [
+      "../postman/globals/workspace.postman_globals.json"
+    ]
+  }
+}
