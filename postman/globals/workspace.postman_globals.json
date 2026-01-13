@@ -1,0 +1,21 @@
+{
+  "id": "globals-0dd65c58-eaf1-4d12-9f9f-99119ee484db",
+  "name": "Billing API Workspace Globals",
+  "values": [
+    {
+      "key": "workspace_id",
+      "value": "0dd65c58-eaf1-4d12-9f9f-99119ee484db",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "api_version",
+      "value": "v1",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2026-01-13T21:46:06.382455Z",
+  "_postman_exported_using": "Git Integration"
+}
