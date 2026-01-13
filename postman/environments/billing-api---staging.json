@@ -1,0 +1,21 @@
+{
+  "id": "env-0dd65c58-eaf1-4d12-9f9f-99119ee484db-1",
+  "name": "Billing API - Staging",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://api-staging.example.com",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "api_key",
+      "value": "",
+      "type": "secret",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2026-01-13T21:46:03.484247Z",
+  "_postman_exported_using": "Git Integration"
+}
